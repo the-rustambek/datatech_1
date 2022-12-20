@@ -1,0 +1,84 @@
+.accordions {
+  background-color: #151515;
+  padding: 50px 0;
+}
+
+.accordion-name {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+  color: white;
+}
+
+.accordion-text {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.76);
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.accordion-span {
+  background: #000000;
+  width: 50px;
+  height: 50px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 12px;
+}
+
+.accordion-subname {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  margin:0 10px;
+  color: #262626;
+}
+
+.accordion .accordion__button {
+  display: flex;
+  align-items: center;
+}
+
+.accordion-texts {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 157.5%;
+  color: #797878;
+  margin-left: 40px;
+  width: 550px;
+}
+
+.accordion .accordion__item{
+    background: #F5F7F9;
+}
+
+.accordion h5{
+    width: 320px;
+}
+
+.accordion-list{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.accordions .accordion{
+    margin: 15px;
+    width: 540px;
+}

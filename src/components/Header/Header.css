@@ -1,0 +1,66 @@
+.header {
+  background: #131313;
+  padding: 50px 0;
+  position: relative;
+}
+
+.header-name {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 56px;
+  line-height: 68px;
+  color: #ffffff;
+  width: 580px;
+}
+
+span {
+  color: #d69b57;
+}
+
+.header-btn {
+  background: #d69b57;
+  width: 220px;
+  height: 58.5px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.header-player {
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #ffffff;
+  margin: 0 20px;
+}
+
+.header-top{
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.header .container{
+    display: flex;
+}
+
+.header-left{
+    margin: 0 50px;
+    margin-top: 100px;
+}
+
+.header-logo{
+    position: absolute;
+    top: 8%;
+    left: 80%;
+}

@@ -1,0 +1,28 @@
+.aside {
+  background-color: #151515;
+  padding: 50px 0;
+}
+
+.aside-name {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+  color: #fff;
+}
+
+.aside-text {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  margin: 0 auto;
+  color: rgba(255, 255, 255, 0.76);
+  width: 520px;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}

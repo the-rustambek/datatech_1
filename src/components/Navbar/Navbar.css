@@ -1,0 +1,31 @@
+.navbar {
+  background: #131313;
+  padding: 56px 23px 25px;
+}
+
+.navbar .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 0.7px solid #FFFFFF;
+  padding-bottom: 40px;
+}
+
+
+.navbar-list {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-item {
+  margin: 0 35px;
+}
+.navbar-link {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #ffffff;
+  text-decoration: none;
+}

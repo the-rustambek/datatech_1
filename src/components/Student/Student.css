@@ -1,0 +1,90 @@
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.student {
+  background-color: #1F1F26;
+  padding: 50px 0;
+  position: relative;
+}
+
+.student-name {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+  color: #fff;
+}
+
+.student-text {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.76);
+  width: 370px;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+.student-list{
+    margin-top: 70px;
+}
+
+.student-img {
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
+  position: absolute;
+  top: 0%;
+  left: 34%;
+}
+
+.student-subname {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  color: #fff;
+  margin: 15px 0;
+  margin-top: 50px;
+}
+
+.student-texts {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #ffffff;
+  width: 260px;
+}
+
+.student-item {
+  background: #181818;
+  padding: 30px 45px;
+  height: 322px;
+}
+
+.student-logo{
+    margin-top: 10px;
+}

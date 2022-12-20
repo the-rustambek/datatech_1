@@ -1,0 +1,81 @@
+.definition {
+  background-color: #151515;
+  padding: 50px 0;
+}
+
+.definition-name {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.definition-list {
+  background: #1f1f26;
+  width: 350px;
+  height: 500px;
+  margin: 15px;
+  padding: 28px 32px;
+}
+
+.definition-subname {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 24px;
+  letter-spacing: 0.38px;
+  color: #ffffff;
+  height: 72px;
+  margin-bottom: 30px;
+}
+
+.definition-span {
+  display: flex;
+  align-items: flex-start;
+  margin: 10px 0;
+}
+
+.definition-text {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.32px;
+  color: rgba(255, 255, 255, 0.8);
+  margin: 0 10px;
+}
+
+.text {
+  color: rgba(255, 255, 255, 0.4);
+  width: 180px;
+}
+.texts {
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.definition-btn {
+  background: #d69b57;
+  width: 285px;
+  height: 59px;
+  font-family: "Inter";
+  font-style: normal;
+  border: none;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #ffffff;
+  cursor: pointer;
+  margin-top: 25px;
+}
+
+
+.definition-page{
+    display: flex;
+    align-items: center;
+    margin-top: 45px;
+}
